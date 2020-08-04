@@ -1,0 +1,22 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\ \"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riazk88/budget-tracker.git"
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "Kiran Riaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riazk88/budget-tracker/issues"
+  },
+  "homepage": "https://github.com/riazk88/budget-tracker#readme"
+}
