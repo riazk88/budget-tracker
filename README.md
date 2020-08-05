@@ -18,3 +18,4 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 # Check It Out!
 
+<img src="./tracker.png">
