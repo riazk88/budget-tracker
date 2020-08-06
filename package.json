@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/riazk88/budget-tracker/issues"
   },
-  "homepage": "https://github.com/riazk88/budget-tracker#readme"
+  "homepage": "https://github.com/riazk88/budget-tracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "logger": "0.0.1",
+    "mongoose": "^5.9.27"
+  }
 }
